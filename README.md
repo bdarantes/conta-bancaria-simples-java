@@ -59,9 +59,6 @@ src/
 1. Clone o repositório:
 
 ```git clone git@github.com:bdarantes/conta-bancaria-simples-java.git
-ou 
-git clone https://github.com/bdarantes/conta-bancaria-simples-java.git
-se estiver usando https.
 ```
 
 2. Acesse o diretório do projeto:
@@ -133,7 +130,7 @@ Escolha uma opção:
 ## 📄 Licença
 
 Este projeto é livre para estudo e modificação, sem fins comerciais.
-
+- 💻 Interface gráfica (Swing ou JavaFX)
 ---
 
 Feito com ☕, prática e aprendizado 💻 por Braz Daniel
