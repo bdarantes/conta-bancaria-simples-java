@@ -58,7 +58,8 @@ src/
 
 1. Clone o repositório:
 
-```git clone git@github.com:bdarantes/conta-bancaria-simples-java.git
+```bash
+git clone git@github.com:bdarantes/conta-bancaria-simples-java.git
 ```
 
 2. Acesse o diretório do projeto:
