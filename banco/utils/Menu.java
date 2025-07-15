@@ -80,6 +80,7 @@ public class Menu {
     private void transferir() {
         System.out.println("Conta origem: ");
         int origem = scanner.nextInt();
+        scanner.nextLine();
         System.out.println("Valor: ");
         BigDecimal valor = new BigDecimal(scanner.nextLine());
         
@@ -98,6 +99,7 @@ public class Menu {
     private Conta buscarConta() {
         System.out.println("Número da conta: ");
         int numero = scanner.nextInt();
+        scanner.nextLine();
         Conta conta = bancoService.buscarContaPorNumero(numero);
         if(conta == null) {
             throw new RuntimeException("Conta não encontrada: ");
