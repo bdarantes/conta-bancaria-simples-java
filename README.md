@@ -52,7 +52,7 @@ src/
 ### ✔️ Requisitos
 
 - Java JDK 17 ou superior
-- Terminal ou IDE (como IntelliJ IDEA ou VSCode)
+- Terminal(Linux ou MacOS) ou prompt de comando(Windows)
 
 ### 💻 Compilando e Executando
 
